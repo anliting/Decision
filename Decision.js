@@ -1,4 +1,4 @@
-class Decision{
+var Decision=class Decision{
     constructor(){
         this.listeners=[]
     }
